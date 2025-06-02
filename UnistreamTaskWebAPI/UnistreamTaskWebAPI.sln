@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnistreamTaskWebAPI", "UnistreamTaskWebAPI\UnistreamTaskWebAPI.csproj", "{89E26053-462B-4758-BF4A-333855683534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnistreamTaskWebAPI.UnitTests", "UnistreamTaskWebAPI.UnitTests\UnistreamTaskWebAPI.UnitTests.csproj", "{E8F4105A-C154-45E9-8532-ED7695D839A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E26053-462B-4758-BF4A-333855683534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E26053-462B-4758-BF4A-333855683534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E26053-462B-4758-BF4A-333855683534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E26053-462B-4758-BF4A-333855683534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F4105A-C154-45E9-8532-ED7695D839A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F4105A-C154-45E9-8532-ED7695D839A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F4105A-C154-45E9-8532-ED7695D839A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F4105A-C154-45E9-8532-ED7695D839A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E444B25A-23CC-43C8-A297-EDD7FFE732F8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+2025-06-02 20:30:53.313 +03:00 [INF] Starting web host
+2025-06-02 20:30:54.882 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 122.0916 ms
+2025-06-02 20:30:55.008 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 7.9329 ms
+2025-06-02 20:30:55.195 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 2.8428 ms
+2025-06-02 20:35:06.820 +03:00 [INF] Starting web host
+2025-06-02 20:35:08.395 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 104.0170 ms
+2025-06-02 20:35:08.464 +03:00 [INF] HTTP GET /css/swagger-custom.css responded 404 in 3.3582 ms
+2025-06-02 20:35:08.632 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 9.8242 ms
+2025-06-02 20:35:08.780 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.6741 ms
+2025-06-02 20:36:00.580 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 1.6722 ms
+2025-06-02 20:36:00.603 +03:00 [INF] HTTP GET /css/swagger-custom.css responded 404 in 0.2220 ms
+2025-06-02 20:36:00.846 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 2.1097 ms
+2025-06-02 20:36:01.637 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 0.9152 ms
+2025-06-02 20:36:01.666 +03:00 [INF] HTTP GET /css/swagger-custom.css responded 404 in 0.0982 ms
+2025-06-02 20:36:01.739 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.5664 ms
+2025-06-02 20:36:20.019 +03:00 [INF] Starting web host
+2025-06-02 20:36:21.616 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 8.9672 ms
+2025-06-02 20:36:21.631 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 123.7250 ms
+2025-06-02 20:36:21.653 +03:00 [INF] HTTP GET /css/swagger-custom.css responded 404 in 2.7167 ms
+2025-06-02 20:36:21.868 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 1.9407 ms
+2025-06-02 20:36:50.033 +03:00 [INF] Starting web host
+2025-06-02 20:36:51.502 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 13.4044 ms
+2025-06-02 20:36:51.574 +03:00 [INF] HTTP GET /swagger/index.html responded 200 in 113.7152 ms
+2025-06-02 20:36:51.602 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 2.5793 ms
+2025-06-02 20:36:51.612 +03:00 [INF] HTTP GET /css/swagger-custom.css responded 404 in 2.1896 ms
+2025-06-02 20:36:51.770 +03:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 2.6849 ms
+2025-06-02 20:37:49.284 +03:00 [INF] Данная танзакция уже существует
