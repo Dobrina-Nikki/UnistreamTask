@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "I8JBAbonPS/MsT/Ue6I3IINrgzVsNbSfNs1h9PIfVjE=",
+  "Source": "UnistreamTaskWebAPI",
+  "BasePath": "_content/UnistreamTaskWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
