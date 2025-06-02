@@ -123,8 +123,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\Models\\TransactionResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:47:54.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T17:47:54.802Z"
             },
             {
               "$type": "Document",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\Models\\Transaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:23:56.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T16:23:56.954Z"
             },
             {
               "$type": "Document",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:23:34.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T16:23:34.614Z"
             },
             {
               "$type": "Document",
@@ -162,8 +159,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\appsettings.json",
               "ViewState": "AgIAAAUAAAAAAAAAAABRwA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T16:03:22.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T16:03:22.437Z"
             },
             {
               "$type": "Document",
@@ -175,8 +171,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\Services\\TransactionService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:17:49.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T14:17:49.964Z"
             },
             {
               "$type": "Document",
@@ -188,8 +183,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\Services\\Interfaces\\ITransactionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:38:50.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T15:38:50.849Z"
             },
             {
               "$type": "Document",
@@ -201,8 +195,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\Program.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:27:58.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T14:27:58.742Z"
             },
             {
               "$type": "Document",
@@ -214,8 +207,7 @@
               "RelativeToolTip": "UnistreamTaskWebAPI\\Models\\Exceptions\\ApiException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:23:48.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T16:23:48.737Z"
             }
           ]
         }
