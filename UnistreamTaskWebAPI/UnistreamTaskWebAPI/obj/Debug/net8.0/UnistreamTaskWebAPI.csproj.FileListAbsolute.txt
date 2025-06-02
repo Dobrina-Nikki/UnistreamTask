@@ -66,3 +66,4 @@ D:\Projects\1.pets\Test_tasks_for_job_git\UnistreamTask\UnistreamTaskWebAPI\Unis
 D:\Projects\1.pets\Test_tasks_for_job_git\UnistreamTask\UnistreamTaskWebAPI\UnistreamTaskWebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 D:\Projects\1.pets\Test_tasks_for_job_git\UnistreamTask\UnistreamTaskWebAPI\UnistreamTaskWebAPI\bin\Debug\net8.0\System.Text.Json.dll
 D:\Projects\1.pets\Test_tasks_for_job_git\UnistreamTask\UnistreamTaskWebAPI\UnistreamTaskWebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Projects\1.pets\Test_tasks_for_job_git\UnistreamTask\UnistreamTaskWebAPI\UnistreamTaskWebAPI\obj\Debug\net8.0\UnistreamTaskWebAPI.sourcelink.json

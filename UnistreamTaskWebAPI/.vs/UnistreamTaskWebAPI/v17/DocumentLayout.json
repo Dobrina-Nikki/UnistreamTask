@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|solutionrelative:unistreamtaskwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8F4105A-C154-45E9-8532-ED7695D839A1}|UnistreamTaskWebAPI.UnitTests\\UnistreamTaskWebAPI.UnitTests.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi.unittests\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4105A-C154-45E9-8532-ED7695D839A1}|UnistreamTaskWebAPI.UnitTests\\UnistreamTaskWebAPI.UnitTests.csproj|solutionrelative:unistreamtaskwebapi.unittests\\transactionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|solutionrelative:unistreamtaskwebapi\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi\\services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|solutionrelative:unistreamtaskwebapi\\services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|solutionrelative:unistreamtaskwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8F4105A-C154-45E9-8532-ED7695D839A1}|UnistreamTaskWebAPI.UnitTests\\UnistreamTaskWebAPI.UnitTests.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8F4105A-C154-45E9-8532-ED7695D839A1}|UnistreamTaskWebAPI.UnitTests\\UnistreamTaskWebAPI.UnitTests.csproj|solutionrelative:unistreamtaskwebapi.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi\\services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|solutionrelative:unistreamtaskwebapi\\services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89E26053-462B-4758-BF4A-333855683534}|UnistreamTaskWebAPI\\UnistreamTaskWebAPI.csproj|d:\\projects\\1.pets\\test_tasks_for_job_git\\unistreamtask\\unistreamtaskwebapi\\unistreamtaskwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,15 +102,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI.UnitTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnistreamTaskWebAPI.UnitTests\\UnitTest1.cs",
-              "ToolTip": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI.UnitTests\\UnitTest1.cs",
-              "RelativeToolTip": "UnistreamTaskWebAPI.UnitTests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TransactionServiceTests.cs",
+              "DocumentMoniker": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI.UnitTests\\TransactionServiceTests.cs",
+              "RelativeDocumentMoniker": "UnistreamTaskWebAPI.UnitTests\\TransactionServiceTests.cs",
+              "ToolTip": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI.UnitTests\\TransactionServiceTests.cs",
+              "RelativeToolTip": "UnistreamTaskWebAPI.UnitTests\\TransactionServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowDIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T17:53:40.452Z"
+              "WhenOpened": "2025-06-02T17:53:40.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,7 +157,7 @@
               "RelativeDocumentMoniker": "UnistreamTaskWebAPI\\appsettings.json",
               "ToolTip": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI\\appsettings.json",
               "RelativeToolTip": "UnistreamTaskWebAPI\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-02T16:03:22.437Z"
             },
@@ -174,28 +175,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ITransactionService.cs",
               "DocumentMoniker": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI\\Services\\Interfaces\\ITransactionService.cs",
               "RelativeDocumentMoniker": "UnistreamTaskWebAPI\\Services\\Interfaces\\ITransactionService.cs",
               "ToolTip": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI\\Services\\Interfaces\\ITransactionService.cs",
               "RelativeToolTip": "UnistreamTaskWebAPI\\Services\\Interfaces\\ITransactionService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T15:38:50.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI\\Program.cs",
               "RelativeDocumentMoniker": "UnistreamTaskWebAPI\\Program.cs",
               "ToolTip": "D:\\Projects\\1.pets\\Test_tasks_for_job_git\\UnistreamTask\\UnistreamTaskWebAPI\\UnistreamTaskWebAPI\\Program.cs",
               "RelativeToolTip": "UnistreamTaskWebAPI\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T14:27:58.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T14:27:58.742Z"
             },
             {
               "$type": "Document",

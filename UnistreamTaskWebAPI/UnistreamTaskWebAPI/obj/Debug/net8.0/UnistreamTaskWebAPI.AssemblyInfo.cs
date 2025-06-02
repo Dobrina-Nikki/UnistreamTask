@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnistreamTaskWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+314a9c6bd28aa5a1cfe57500ccf26e400f8cd3f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnistreamTaskWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnistreamTaskWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
